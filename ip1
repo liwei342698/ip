@@ -155,11 +155,70 @@ CCTV17 (农业农村) ,http://39.135.126.62/PLTV/88888888/224/3221226857/index.m
 辽宁都市 ,http://39.134.61.218/PLTV/88888888/224/3221226914/index.m3u8
 
 🇨🇳影视频道,#genre#
-杰森·斯坦森 ,http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-古天乐 ,http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8
-周星驰 ,http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
-洪金宝 ,http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
-古惑仔 ,http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
-漫威 ,http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
-犯罪悬疑 ,http://tx.hls.huya.com/huyalive/30765679-2480288304-10652757150331305984-2789274538-10057-A-1511757260-1.m3u8
-复仇犯罪 ,http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="地方频道",云南卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/yunnan_2/index.m3u8
+#EXTINF:-1 group-title="地方频道",安徽卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/anhui_2/index.m3u8
+#EXTINF:-1 group-title="地方频道",江西卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/jiangxi_2/index.m3u8
+#EXTINF:-1 group-title="地方频道",重庆卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/chongqing_2/index.m3u8
+#EXTINF:-1 group-title="地方频道",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="地方频道",黑龙江卫视
+http://cctvtxyh5c.liveplay.myqcloud.com/wstv/heilongjiang_2/index.m3u8
+#EXTINF:-1 group-title="地方频道",龙岩综合
+http://stream.lytv.net.cn/2/sd/live.m3u8
+#EXTINF:-1 group-title="地方频道",万州三峡移民
+http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8
+#EXTINF:-1 group-title="地方频道",万州综合频道
+http://123.146.162.24:8013/tslslive/noEX9SG/hls/live_sd.m3u8
+#EXTINF:-1 group-title="其他频道",斯坦森
+http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="其他频道",徐克导演
+http://tx.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1.m3u8
+#EXTINF:-1 group-title="其他频道",电影-丧尸
+http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="其他频道",电影-惊悚
+http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8
+#EXTINF:-1 group-title="其他频道",电影-赌博
+http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="其他频道",电影-古天乐
+http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8
+#EXTINF:-1 group-title="其他频道",电影-古惑仔
+http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="其他频道",电影-周星驰
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="其他频道",电影-洪金宝
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="其他频道",虎牙漫威电影
+http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="其他频道",虎牙犯罪悬疑
+http://tx.hls.huya.com/huyalive/30765679-2480288304-10652757150331305984-2789274538-10057-A-1511757260-1.m3u8
+#EXTINF:-1 group-title="其他频道",电影-复仇犯罪
+http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="其他频道",电影-女神港片
+http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="其他频道",电影-徐峥电影
+http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="其他频道",电影-死神来了
+https://txdirect.hls.huya.com/huyalive/30765679-2484192708-10669526437821677568-3049003172-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="其他频道",电视剧-医馆笑传
+https://txdirect.hls.huya.com/huyalive/29359996-2689637846-11551906586653884416-2847687566-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="其他频道",电视剧-热血高校
+https://txdirect.hls.huya.com/huyalive/29169025-2686219818-11537226268177072128-2789253878-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="其他频道",电视剧-雍正王朝
+https://txdirect.hls.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="其他频道",电视剧-我是特种兵
+https://tx.hls.huya.com/huyalive/30765679-2497296332-10725806074360758272-2789253834-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="其他频道",StarPeople
+http://2.139.144.101:8020/1
+#EXTINF:-1 group-title="其他频道",电视剧-我的团长我的团
+https://tx.hls.huya.com/huyalive/94525224-2583571852-11096356611206152192-2847687652-10057-A-0-1_1200.m3u8
+#EXTINF:-1 group-title="其他频道",美国CGTN(Opt-2)
+http://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 group-title="广播频道",IslandVibesRadio
+http://74.50.122.103:8982/;stream
+#EXTINF:-1 group-title="广播频道",RadioMujer1040AMGuadalajara
+http://radio.promosat.com:8002/stream
