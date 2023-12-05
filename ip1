@@ -410,9 +410,6 @@ CGTN,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225745/index.m3u8
 剧集_家有儿女,http://159.75.85.63:35455/huya/11352872
 剧集_地下交通站,http://159.75.85.63:35455/huya/11342433
 
-🇨🇳儿童频道,#genre#
-小猪佩奇,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1701814525/ei/nUxvZYbPNsOQsfIP2KOk-AE/ip/13.73.36.188/id/BwxcSTImEzU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-o097znsr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/UWF9f_nhDgx7MFUok9ClTZZBFB3DRT04kb6-xymKQg/vprv/1/playlist_type/DVR/mh/-d/mm/44/mn/sn-o097znsr/ms/lva/mv/u/mvi/1/pl/22/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1701792041/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/ANLwegAwRgIhAMETxgcJkSrATnrvI-d5UGblCDd7_Ev_5P0yV4U5EHUrAiEA2T6rXmF-kJx6YfcyIIhSE8Q6bOhbFOiaPNI2ihjy27M%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AM8Gb2swRQIgbT4NUVO_IsZeYI80kRLTxFEeoCcdDlqgK8_wo8G4TgkCIQCEmpqGCKdw_nPBvxRAoOVCkqQcbnaiL-HljMDo8eDdPg%3D%3D/playlist/index.m3u8
-
 🇨🇳测试IPV6 ,#genre#
 CCTV-1 综合,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 CCTV-2 财经,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
