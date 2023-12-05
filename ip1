@@ -333,6 +333,7 @@ Hot风尚音乐 2M1080,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=
 刘德华,http://159.75.85.63:35455/huya/11342424
 刘德华,https://epg.112114.xyz/huya/11342424
 刘德华,https://yang-1989.eu.org/live/huya/11342424
+刘德华2,http://123.132.226.194:31028/hls/40/index.m3u8
 周润发,http://159.75.85.63:35455/huya/11342387
 周润发,https://epg.112114.xyz/huya/11342387
 周润发,https://yang-1989.eu.org/live/huya/11342387
@@ -342,7 +343,7 @@ Hot风尚音乐 2M1080,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=
 许氏三杰,http://159.75.85.63:35455/huya/11602033
 许氏三杰,https://epg.112114.xyz/huya/11602033
 许氏三杰,https://yang-1989.eu.org/live/huya/11602033
-吴孟达,http://159.75.85.63:35455/huya/11336592
+
 沈腾,http://159.75.85.63:35455/huya/11601968
 洪金宝,http://159.75.85.63:35455/huya/11279251
 梁家辉,http://159.75.85.63:35455/huya/11342429
@@ -352,7 +353,6 @@ Hot风尚音乐 2M1080,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=
 巨石强森,http://159.75.85.63:35455/huya/21059581
 杰森斯坦森,http://159.75.85.63:35455/huya/21059588
 
-吴孟达,https://epg.112114.xyz/huya/11336592
 沈腾,https://epg.112114.xyz/huya/11601968
 洪金宝,https://epg.112114.xyz/huya/11279251
 梁家辉,https://epg.112114.xyz/huya/11342429
@@ -362,7 +362,6 @@ Hot风尚音乐 2M1080,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=
 巨石强森,https://epg.112114.xyz/huya/21059581
 杰森斯坦森,https://epg.112114.xyz/huya/21059588
 
-吴孟达,https://yang-1989.eu.org/live/huya/11336592
 沈腾,https://yang-1989.eu.org/live/huya/11601968
 洪金宝,https://yang-1989.eu.org/live/huya/11279251
 梁家辉,https://yang-1989.eu.org/live/huya/11342429
@@ -374,13 +373,15 @@ Hot风尚音乐 2M1080,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=
 
 李连杰,http://123.132.226.194:31028/hls/38/index.m3u8
 周星驰,http://123.132.226.194:31028/hls/39/index.m3u8
-刘德华,http://123.132.226.194:31028/hls/40/index.m3u8
 成龙,http://123.132.226.194:31028/hls/41/index.m3u8
 吴京,http://123.132.226.194:31028/hls/42/index.m3u8
 甄子丹,http://123.132.226.194:31028/hls/104/index.m3u8
 黄渤,http://123.132.226.194:31028/hls/105/index.m3u8
 王宝强,http://123.132.226.194:31028/hls/106/index.m3u8
 
+剧集_雪中悍刀行,http://159.75.85.63:35455/huya/11336592
+剧集_雪中悍刀行,https://epg.112114.xyz/huya/11336592
+剧集_雪中悍刀行,https://yang-1989.eu.org/live/huya/11336592
 剧集_纪晓岚,http://159.75.85.63:35455/huya/11342396
 剧集_庆余年,http://159.75.85.63:35455/huya/11352960
 剧集_雍正王朝,http://159.75.85.63:35455/huya/11342439
