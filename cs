@@ -1,3 +1,4 @@
+央视,#genre#
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV2,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 CCTV3,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
@@ -17,7 +18,7 @@ CCTV16,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
-
+电视剧,#genre#
 雪中悍刀行,http://diyp1.112114.xyz/huya/11336592
 将夜,http://diyp1.112114.xyz/huya/11352885
 镖行天下,http://diyp1.112114.xyz/huya/11352969
