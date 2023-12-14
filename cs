@@ -18,6 +18,25 @@ CCTV16,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 CCTV17,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
+CCTV1 (综合) ,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
+CCTV2 (财经) ,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
+CCTV3 (综艺) ,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8
+CCTV4 (亚洲) ,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8
+CCTV5 (体育) ,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
+CCTV6 (电影) ,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
+CCTV7 (军事) ,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8
+CCTV8 (电视剧) ,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+CCTV9 (记录) ,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
+CCTV10 (科教) ,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8
+CCTV11 (戏曲) ,https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8
+CCTV12 (社会与法) ,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8
+CCTV13 (新闻) ,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
+CCTV14 (少儿) ,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8
+CCTV15 (音乐) ,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8
+CCTV5+ (体育赛事) ,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+CCTV16 (奥林匹克) ,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
+CCTV17 (农业农村) ,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8
+
 电视剧,#genre#
 雪中悍刀行,http://159.75.85.63:35455/huya/11336592
 将夜,http://159.75.85.63:35455/huya/11352885
