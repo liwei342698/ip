@@ -1,31 +1,40 @@
- 斗鱼电影4K,http://epg.112114.xyz/douyu/9249162
- 斗鱼电影HD1,http://epg.112114.xyz/douyu/4246519
- 斗鱼电影HD2,http://epg.112114.xyz/douyu/122402
- 斗鱼电影HD3,http://epg.112114.xyz/douyu/85894
- 斗鱼电影HD4,http://epg.112114.xyz/douyu/263824
- 斗鱼电影HD5,http://epg.112114.xyz/douyu/323876
- 斗鱼电影HD6,http://epg.112114.xyz/douyu/6140589
- 斗鱼电影HD7,http://epg.112114.xyz/douyu/8770422
- 斗鱼电影HD8,http://epg.112114.xyz/douyu/2436390
- 斗鱼电影HD9,http://epg.112114.xyz/douyu/413573
- 斗鱼电影HD10,http://epg.112114.xyz/douyu/9292492
- 斗鱼电影HD11,http://epg.112114.xyz/douyu/252802
- 斗鱼电影HD12,http://epg.112114.xyz/douyu/2516864
- 斗鱼电影HD13,http://epg.112114.xyz/douyu/4332
- 斗鱼电影HD14,http://epg.112114.xyz/douyu/9651304
- 斗鱼电影HD15,http://epg.112114.xyz/douyu/8814650
- 斗鱼电影HD16,http://epg.112114.xyz/douyu/1165374
- 斗鱼电影HD17,http://epg.112114.xyz/douyu/1226741
- 斗鱼电影1,http://epg.112114.xyz/douyu/5423
- 斗鱼电影2,http://epg.112114.xyz/douyu/2935323
- 斗鱼电影3,http://epg.112114.xyz/douyu/74374
- 斗鱼电影4,http://epg.112114.xyz/douyu/9292499
- 斗鱼电影5,http://epg.112114.xyz/douyu/9826611
- 斗鱼电影6,http://epg.112114.xyz/douyu/4505431
- 斗鱼电影7,http://epg.112114.xyz/douyu/434971
- 斗鱼电视剧HD1,http://epg.112114.xyz/douyu/431460
- 斗鱼电视剧HD2,http://epg.112114.xyz/douyu/3756989
- 斗鱼电视剧1,http://epg.112114.xyz/douyu/7623292
+&CCTV1 (综合) ,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
+&CCTV2 (财经) ,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
+*CCTV3 (综艺) ,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
+*CCTV4 (亚洲) ,https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
+*CCTV5 (体育) ,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
+*CCTV5+ (体育赛事) ,https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
+*CCTV6 (电影) ,https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
+*CCTV7 (军事) ,https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
+*CCTV8 (电视剧) ,https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
+*CCTV9 (记录) ,https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
+*CCTV10 (科教) ,https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
+*CCTV11 (戏曲) ,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
+*CCTV12 (社会与法) ,https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
+*CCTV13 (新闻) ,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
+*CCTV14 (少儿) ,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
+*CCTV15 (音乐) ,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+*CCTV16 (奥林匹克) ,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+*CCTV17 (农业农村) ,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
+
+*CCTV1 (综合) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+*CCTV2 (财经) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+*CCTV3 (综艺) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+*CCTV4 (亚洲) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+*CCTV5 (体育) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+*CCTV5+ (体育赛事) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+*CCTV6 (电影) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+*CCTV7 (军事) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+*CCTV8 (电视剧) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+*CCTV9 (记录) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+*CCTV10 (科教) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+*CCTV11 (戏曲) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+*CCTV12 (社会与法) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+*CCTV13 (新闻) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+*CCTV14 (少儿) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+*CCTV15 (音乐) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+*CCTV16 (奥林匹克) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+*CCTV17 (农业农村) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 
 
 高清12Mb,#genre#
