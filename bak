@@ -1,3 +1,32 @@
+西游记,http://123.132.226.194:31028/hls/52/index.m3u8
+红楼梦,http://123.132.226.194:31028/hls/54/index.m3u8
+包青天,http://123.132.226.194:31028/hls/71/index.m3u8
+武林外传,http://123.132.226.194:31028/hls/69/index.m3u8
+水浒传,http://123.132.226.194:31028/hls/60/index.m3u8
+大宅门,http://123.132.226.194:31028/hls/62/index.m3u8
+还珠格格,http://123.132.226.194:31028/hls/65/index.m3u8
+潜伏,http://123.132.226.194:31028/hls/72/index.m3u8
+甄嬛传,http://123.132.226.194:31028/hls/74/index.m3u8
+打狗棍,http://123.132.226.194:31028/hls/75/index.m3u8
+人民的名义,http://123.132.226.194:31028/hls/85/index.m3u8
+赘婿,http://123.132.226.194:31028/hls/89/index.m3u8
+蜡笔小新,http://123.132.226.194:31028/hls/92/index.m3u8
+猫和老鼠,http://123.132.226.194:31028/hls/93/index.m3u8
+小猪佩奇,http://123.132.226.194:31028/hls/96/index.m3u8
+汪汪队立大功,http://123.132.226.194:31028/hls/95/index.m3u8
+猪猪侠,http://123.132.226.194:31028/hls/100/index.m3u8
+宝宝巴士,http://123.132.226.194:31028/hls/122/index.m3u8
+宝宝巴士2,http://123.132.226.194:31028/hls/123/index.m3u8
+宝宝巴士3,http://123.132.226.194:31028/hls/121/index.m3u8
+贝瓦儿歌,http://123.132.226.194:31028/hls/43/index.m3u8
+大头儿子,http://123.132.226.194:31028/hls/46/index.m3u8
+萌鸡小队,http://123.132.226.194:31028/hls/94/index.m3u8
+熊出没,http://123.132.226.194:31028/hls/97/index.m3u8
+超级飞侠,http://123.132.226.194:31028/hls/44/index.m3u8
+倒霉熊,http://123.132.226.194:31028/hls/45/index.m3u8
+开心超人联盟,http://123.132.226.194:31028/hls/47/index.m3u8
+
+
 &CCTV1 (综合) ,https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 &CCTV2 (财经) ,https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
 *CCTV3 (综艺) ,https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
