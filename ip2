@@ -1,68 +1,48 @@
 🇨🇳央视频道,#genre#
-CCTV-1高清,http://42.179.40.167:9901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2高清,http://42.179.40.167:9901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-3高清,http://42.179.40.167:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-4高清,http://42.179.40.167:9901/tsfile/live/1158_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-5高清,http://42.179.40.167:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6高清,http://42.179.40.167:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7高清,http://42.179.40.167:9901/tsfile/live/1159_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8高清,http://42.179.40.167:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9高清,http://42.179.40.167:9901/tsfile/live/1160_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10高清,http://42.179.40.167:9901/tsfile/live/1161_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-11高清,http://42.179.40.167:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12高清,http://42.179.40.167:9901/tsfile/live/1162_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13高清,http://42.179.40.167:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14高清,http://42.179.40.167:9901/tsfile/live/1163_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15高清,http://42.179.40.167:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-16高清,http://42.179.40.167:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-17高清,http://42.179.40.167:9901/tsfile/live/1164_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV5+高清,http://42.179.40.167:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV1,  https://tvhub.vercel.app/bestv.php?id=cctv1hd8m
+CCTV2,  https://tvhub.vercel.app/bestv.php?id=cctv2hd8m
+CCTV3,  https://tvhub.vercel.app/bestv.php?id=cctv38m
+CCTV4,  https://tvhub.vercel.app/bestv.php?id=cctv4hd8m
+CCTV5,  https://tvhub.vercel.app/bestv.php?id=cctv58m
+CCTV5+,  https://tvhub.vercel.app/bestv.php?id=cctv5phd8m
+CCTV6,  https://tvhub.vercel.app/bestv.php?id=cctv6hd8m
+CCTV7,  https://tvhub.vercel.app/bestv.php?id=cctv7hd8m
+CCTV8,  https://tvhub.vercel.app/bestv.php?id=cctv8hd8m
+CCTV9,  https://tvhub.vercel.app/bestv.php?id=cctv9hd8m
+CCTV10,  https://tvhub.vercel.app/bestv.php?id=cctv10hd8m
+CCTV11,  https://tvhub.vercel.app/bestv.php?id=cctv11hd8m
+CCTV12,  https://tvhub.vercel.app/bestv.php?id=cctv12hd8m
+CCTV13,  https://tvhub.vercel.app/bestv.php?id=cctv13xwhd8m
+CCTV14,  https://tvhub.vercel.app/bestv.php?id=cctvsehd8m
+CCTV15,  https://tvhub.vercel.app/bestv.php?id=cctv15hd8m
+CCTV16,  https://tvhub.vercel.app/bestv.php?id=cctv16hd8m
+CCTV17,  https://tvhub.vercel.app/bestv.php?id=cctv17hd8m
 🇨🇳卫视频道,#genre#
-北京高清,http://42.179.40.167:9901/tsfile/live/1151_1.m3u8?key=txiptv&playlive=1&authid=0
-天津高清,http://42.179.40.167:9901/tsfile/live/1129_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南高清,http://42.179.40.167:9901/tsfile/live/1143_1.m3u8?key=txiptv&playlive=1&authid=0
-浙江高清,http://42.179.40.167:9901/tsfile/live/1128_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏高清,http://42.179.40.167:9901/tsfile/live/1140_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽高清,http://42.179.40.167:9901/tsfile/live/1152_1.m3u8?key=txiptv&playlive=1&authid=0
-上海高清,http://42.179.40.167:9901/tsfile/live/1133_1.m3u8?key=txiptv&playlive=1&authid=0
-深圳高清,http://42.179.40.167:9901/tsfile/live/1132_1.m3u8?key=txiptv&playlive=1&authid=0
-黑龙江高清,http://42.179.40.167:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0
-吉林高清,http://42.179.40.167:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-山东高清,http://42.179.40.167:9901/tsfile/live/1134_1.m3u8?key=txiptv&playlive=1&authid=0
-山西卫视,http://42.179.40.167:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
-广东高清,http://42.179.40.167:9901/tsfile/live/1146_1.m3u8?key=txiptv&playlive=1&authid=0
-广西卫视,http://42.179.40.167:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-湖北高清,http://42.179.40.167:9901/tsfile/live/1144_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://42.179.40.167:9901/tsfile/live/1048_1.m3u8?key=txiptv&playlive=1&authid=0
-河北卫视,http://42.179.40.167:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://42.179.40.167:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=1&authid=0
-四川高清,http://42.179.40.167:9901/tsfile/live/1130_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆高清,http://42.179.40.167:9901/tsfile/live/1127_1.m3u8?key=txiptv&playlive=1&authid=0
-东南高清,http://42.179.40.167:9901/tsfile/live/1147_1.m3u8?key=txiptv&playlive=1&authid=0
-厦门卫视,http://42.179.40.167:9901/tsfile/live/1054_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://42.179.40.167:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=1&authid=0
-贵州卫视,http://42.179.40.167:9901/tsfile/live/1056_1.m3u8?key=txiptv&playlive=1&authid=0
-陕西卫视,http://42.179.40.167:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
-内蒙古卫视,http://42.179.40.167:9901/tsfile/live/1058_1.m3u8?key=txiptv&playlive=1&authid=0
-宁夏卫视,http://42.179.40.167:9901/tsfile/live/1059_1.m3u8?key=txiptv&playlive=1&authid=0
-青海卫视,http://42.179.40.167:9901/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
-新疆卫视,http://42.179.40.167:9901/tsfile/live/1061_1.m3u8?key=txiptv&playlive=1&authid=0
-甘肃卫视,http://42.179.40.167:9901/tsfile/live/1062_1.m3u8?key=txiptv&playlive=1&authid=0
-西藏卫视,http://42.179.40.167:9901/tsfile/live/1063_1.m3u8?key=txiptv&playlive=1&authid=0
-海南卫视,http://42.179.40.167:9901/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
-兵团卫视,http://42.179.40.167:9901/tsfile/live/1066_1.m3u8?key=txiptv&playlive=1&authid=0
-农林卫视,http://42.179.40.167:9901/tsfile/live/1067_1.m3u8?key=txiptv&playlive=1&authid=0
-第一剧场,http://42.179.40.167:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
-新动漫,http://42.179.40.167:9901/tsfile/live/1086_1.m3u8?key=txiptv&playlive=1&authid=0
-卡酷动漫,http://42.179.40.167:9901/tsfile/live/1087_1.m3u8?key=txiptv&playlive=1&authid=0
-金鹰卡通,http://42.179.40.167:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=1&authid=0
-炫动卡通,http://42.179.40.167:9901/tsfile/live/1089_1.m3u8?key=txiptv&playlive=1&authid=0
-优漫卡通,http://42.179.40.167:9901/tsfile/live/1090_1.m3u8?key=txiptv&playlive=1&authid=0
-佳嘉卡通,http://42.179.40.167:9901/tsfile/live/1091_1.m3u8?key=txiptv&playlive=1&authid=0
-动作电影,http://42.179.40.167:9901/tsfile/live/1101_1.m3u8?key=txiptv&playlive=1&authid=0
-高清电影,http://42.179.40.167:9901/tsfile/live/1104_1.m3u8?key=txiptv&playlive=1&authid=0
-家庭影院,http://42.179.40.167:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
-风云足球,http://42.179.40.167:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,  https://tvhub.vercel.app/bestv.php?id=jswshd8m
+广西卫视,  https://tvhub.vercel.app/bestv.php?id=gxwshd8m
+四川卫视,  https://tvhub.vercel.app/bestv.php?id=scwshd
+湖南卫视,  https://tvhub.vercel.app/bestv.php?id=hunanwshd8m
+浙江卫视,  https://tvhub.vercel.app/bestv.php?id=zjwshd8m
+东方卫视,  https://tvhub.vercel.app/bestv.php?id=dfwshd8m
+北京卫视,  https://tvhub.vercel.app/bestv.php?id=bjwshd8m
+天津卫视,  https://tvhub.vercel.app/bestv.php?id=tjwshd8m
+辽宁卫视,  https://tvhub.vercel.app/bestv.php?id=lnwshd8m
+安徽卫视,  https://tvhub.vercel.app/bestv.php?id=ahwshd8m
+黑龙江卫视,  https://tvhub.vercel.app/bestv.php?id=hljwshd8m
+广东卫视,  https://tvhub.vercel.app/bestv.php?id=gdwshd8m
+深圳卫视,  https://tvhub.vercel.app/bestv.php?id=szwshd8m
+湖北卫视,  https://tvhub.vercel.app/bestv.php?id=hubeiws8m
+吉林卫视,  https://tvhub.vercel.app/bestv.php?id=jlwshd8m
+山东卫视,  https://tvhub.vercel.app/bestv.php?id=sdws8m
+江西卫视,  https://tvhub.vercel.app/bestv.php?id=jxws8m
+河南卫视,  https://tvhub.vercel.app/bestv.php?id=hnwshd8m
+河北卫视,  https://tvhub.vercel.app/bestv.php?id=hbwshd8m
+甘肃卫视,  https://tvhub.vercel.app/bestv.php?id=gswshd8m
+重庆卫视,  https://tvhub.vercel.app/bestv.php?id=cqws8m
+东南卫视,  https://tvhub.vercel.app/bestv.php?id=dnwshd8m
+云南卫视,  https://tvhub.vercel.app/bestv.php?id=ynwshd8m
+贵州卫视,  https://tvhub.vercel.app/bestv.php?id=gzwshd8m
+海南卫视,  https://tvhub.vercel.app/bestv.php?id=hainanwshd8m
 🇨🇳辽宁地方,#genre#
 辽宁卫视高清,http://42.179.40.167:9901/tsfile/live/1165_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁北方,http://42.179.40.167:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
