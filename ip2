@@ -17,31 +17,37 @@ CCTV15,http://121.23.184.29:808/hls/15/index.m3u8
 CCTV16,http://121.23.184.29:808/hls/16/index.m3u8
 CCTV5+,http://121.23.184.29:808/hls/17/index.m3u8
 🇨🇳卫视频道,#genre#
-江苏卫视,  https://tvhub.vercel.app/bestv.php?id=jswshd8m
-广西卫视,  https://tvhub.vercel.app/bestv.php?id=gxwshd8m
-四川卫视,  https://tvhub.vercel.app/bestv.php?id=scwshd
-湖南卫视,  https://tvhub.vercel.app/bestv.php?id=hunanwshd8m
-浙江卫视,  https://tvhub.vercel.app/bestv.php?id=zjwshd8m
-东方卫视,  https://tvhub.vercel.app/bestv.php?id=dfwshd8m
-北京卫视,  https://tvhub.vercel.app/bestv.php?id=bjwshd8m
-天津卫视,  https://tvhub.vercel.app/bestv.php?id=tjwshd8m
-辽宁卫视,  https://tvhub.vercel.app/bestv.php?id=lnwshd8m
-安徽卫视,  https://tvhub.vercel.app/bestv.php?id=ahwshd8m
-黑龙江卫视,  https://tvhub.vercel.app/bestv.php?id=hljwshd8m
-广东卫视,  https://tvhub.vercel.app/bestv.php?id=gdwshd8m
-深圳卫视,  https://tvhub.vercel.app/bestv.php?id=szwshd8m
-湖北卫视,  https://tvhub.vercel.app/bestv.php?id=hubeiws8m
-吉林卫视,  https://tvhub.vercel.app/bestv.php?id=jlwshd8m
-山东卫视,  https://tvhub.vercel.app/bestv.php?id=sdws8m
-江西卫视,  https://tvhub.vercel.app/bestv.php?id=jxws8m
-河南卫视,  https://tvhub.vercel.app/bestv.php?id=hnwshd8m
-河北卫视,  https://tvhub.vercel.app/bestv.php?id=hbwshd8m
-甘肃卫视,  https://tvhub.vercel.app/bestv.php?id=gswshd8m
-重庆卫视,  https://tvhub.vercel.app/bestv.php?id=cqws8m
-东南卫视,  https://tvhub.vercel.app/bestv.php?id=dnwshd8m
-云南卫视,  https://tvhub.vercel.app/bestv.php?id=ynwshd8m
-贵州卫视,  https://tvhub.vercel.app/bestv.php?id=gzwshd8m
-海南卫视,  https://tvhub.vercel.app/bestv.php?id=hainanwshd8m
+河北卫视,http://121.23.184.29:808/hls/18/index.m3u8
+湖南卫视,http://121.23.184.29:808/hls/19/index.m3u8
+江苏卫视,http://121.23.184.29:808/hls/20/index.m3u8
+北京卫视,http://121.23.184.29:808/hls/21/index.m3u8
+天津卫视,http://121.23.184.29:808/hls/22/index.m3u8
+深圳卫视,http://121.23.184.29:808/hls/23/index.m3u8
+山东卫视,http://121.23.184.29:808/hls/24/index.m3u8
+广东卫视,http://121.23.184.29:808/hls/25/index.m3u8
+浙江卫视,http://121.23.184.29:808/hls/26/index.m3u8
+黑龙江卫视,http://121.23.184.29:808/hls/27/index.m3u8
+辽宁卫视,http://121.23.184.29:808/hls/28/index.m3u8
+安徽卫视,http://121.23.184.29:808/hls/29/index.m3u8
+湖北卫视,http://121.23.184.29:808/hls/30/index.m3u8
+四川卫视,http://121.23.184.29:808/hls/31/index.m3u8
+东方卫视,http://121.23.184.29:808/hls/32/index.m3u8
+重庆卫视,http://121.23.184.29:808/hls/33/index.m3u8
+东南卫视,http://121.23.184.29:808/hls/34/index.m3u8
+广西卫视,http://121.23.184.29:808/hls/35/index.m3u8
+吉林卫视,http://121.23.184.29:808/hls/36/index.m3u8
+陕西卫视,http://121.23.184.29:808/hls/37/index.m3u8
+山西卫视,http://121.23.184.29:808/hls/38/index.m3u8
+内蒙古卫视,http://121.23.184.29:808/hls/39/index.m3u8
+青海卫视,http://121.23.184.29:808/hls/40/index.m3u8
+宁夏卫视,http://121.23.184.29:808/hls/41/index.m3u8
+西藏卫视,http://121.23.184.29:808/hls/42/index.m3u8
+新疆卫视,http://121.23.184.29:808/hls/43/index.m3u8
+甘肃卫视,http://121.23.184.29:808/hls/44/index.m3u8
+卡酷少儿,http://121.23.184.29:808/hls/46/index.m3u8
+云南卫视,http://121.23.184.29:808/hls/47/index.m3u8
+河南卫视,http://121.23.184.29:808/hls/48/index.m3u8
+贵州卫视,http://121.23.184.29:808/hls/49/index.m3u8
 🇨🇳辽宁地方,#genre#
 辽宁都市 ,http://39.135.126.62/PLTV/88888888/224/3221226524/index.m3u8
 辽宁都市 ,http://39.135.126.62/PLTV/88888888/224/3221226914/index.m3u8
