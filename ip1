@@ -11,8 +11,13 @@ CCTV4 (亚洲) ,http://39.135.126.62/PLTV/88888888/224/3221226636/index.m3u8
 CCTV5 (体育) ,http://39.135.126.62/PLTV/88888888/224/3221227029/index.m3u8
 CCTV5 (体育) ,http://39.135.126.62/PLTV/88888888/224/3221226900/index.m3u8
 CCTV6 (电影) ,http://39.135.126.62/PLTV/88888888/224/3221226847/index.m3u8
+CCTV6 (电影) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV6 (电影) ,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 CCTV7 (军事) ,http://39.135.126.62/PLTV/88888888/224/3221226640/index.m3u8
+CCTV7 (军事) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV8 (电视剧) ,http://39.135.126.62/PLTV/88888888/224/3221226902/index.m3u8
+CCTV8 (电视剧) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV8 (电视剧) ,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 CCTV9 (记录) ,http://39.135.126.62/PLTV/88888888/224/3221226470/index.m3u8
 CCTV9 (记录) ,http://39.135.126.62/PLTV/88888888/224/3221226849/index.m3u8
 CCTV10 (科教) ,http://39.135.126.62/PLTV/88888888/224/3221226462/index.m3u8
@@ -33,45 +38,6 @@ CCTV16 (奥林匹克) ,http://39.135.126.62/PLTV/88888888/224/3221226834/index.m
 CCTV16 (奥林匹克) ,http://39.135.126.62/PLTV/88888888/224/3221226910/index.m3u8
 CCTV17 (农业农村) ,http://39.135.126.62/PLTV/88888888/224/3221226594/index.m3u8
 CCTV17 (农业农村) ,http://39.135.126.62/PLTV/88888888/224/3221226857/index.m3u8
-
-CCTV1 (综合) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8$移动
-CCTV2 (财经) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8$移动
-CCTV3 (综艺) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8$移动
-CCTV4 (亚洲) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8$移动
-CCTV5 (体育) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8$移动
-CCTV6 (电影) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8$移动
-CCTV7 (军事) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8$移动
-CCTV8 (电视剧) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8$移动
-CCTV9 (记录) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8$移动
-CCTV10 (科教) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8$移动
-CCTV11 (戏曲) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8$移动
-CCTV12 (社会与法) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8$移动
-CCTV13 (新闻) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8$移动
-CCTV14 (少儿) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8$移动
-CCTV15 (音乐) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8$移动
-CCTV5+ (体育赛事) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8$移动
-CCTV16 (奥林匹克) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8$移动
-CCTV17 (农业农村) ,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8$移动
-
-CCTV1 (综合) ,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8$新信号
-CCTV2 (财经) ,https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8$新信号
-CCTV3 (综艺) ,https://node1.olelive.com:6443/live/CCTV3HD/hls.m3u8$新信号
-CCTV4 (亚洲) ,https://node1.olelive.com:6443/live/CCTV4HD/hls.m3u8$新信号
-CCTV5 (体育) ,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8$新信号
-CCTV6 (电影) ,https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8$新信号
-CCTV7 (军事) ,https://node1.olelive.com:6443/live/CCTV7HD/hls.m3u8$新信号
-CCTV8 (电视剧) ,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8$新信号
-CCTV9 (记录) ,https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8$新信号
-CCTV10 (科教) ,https://node1.olelive.com:6443/live/CCTV10HD/hls.m3u8$新信号
-CCTV11 (戏曲) ,https://node1.olelive.com:6443/live/CCTV11HD/hls.m3u8$新信号
-CCTV12 (社会与法) ,https://node1.olelive.com:6443/live/CCTV12HD/hls.m3u8$新信号
-CCTV13 (新闻) ,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8$新信号
-CCTV14 (少儿) ,https://node1.olelive.com:6443/live/CCTV14HD/hls.m3u8$新信号
-CCTV15 (音乐) ,https://node1.olelive.com:6443/live/CCTV15HD/hls.m3u8$新信号
-CCTV5+ (体育赛事) ,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8$新信号
-CCTV16 (奥林匹克) ,https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8$新信号
-CCTV17 (农业农村) ,https://node1.olelive.com:6443/live/CCTV17HD/hls.m3u8$新信号
-
 
 🇨🇳卫视频道,#genre#
 安徽卫视 ,http://39.135.126.62/PLTV/88888888/224/3221226447/index.m3u8
