@@ -39,6 +39,22 @@ CCTV16 (奥林匹克) ,http://39.135.126.62/PLTV/88888888/224/3221226910/index.m
 CCTV17 (农业农村) ,http://39.135.126.62/PLTV/88888888/224/3221226594/index.m3u8
 CCTV17 (农业农村) ,http://39.135.126.62/PLTV/88888888/224/3221226857/index.m3u8
 
+CCTV1(综合) ,http://221.12.3.18:8980/live/cctv1/index.m3u8
+CCTV2(财经) ,http://221.12.3.18:8980/live/cctv2/index.m3u8
+CCTV3(综艺) ,http://221.12.3.18:8980/live/cctv3/index.m3u8
+CCTV4(亚洲) ,http://221.12.3.18:8980/live/cctv4/index.m3u8
+CCTV5(体育) ,http://221.12.3.18:8980/live/cctv5/index.m3u8
+CCTV6(电影) ,http://221.12.3.18:8980/live/cctv6/index.m3u8
+CCTV7(军事) ,http://221.12.3.18:8980/live/cctv7/index.m3u8
+CCTV8(电视剧) ,http://221.12.3.18:8980/live/cctv8/index.m3u8
+CCTV9(记录) ,http://221.12.3.18:8980/live/cctv9/index.m3u8
+CCTV10(科教) ,http://221.12.3.18:8980/live/cctv10/index.m3u8
+CCTV11(戏曲) ,http://221.12.3.18:8980/live/cctv11/index.m3u8
+CCTV12(社会与法) ,http://221.12.3.18:8980/live/cctv12/index.m3u8
+CCTV13(新闻) ,http://221.12.3.18:8980/live/cctv13/index.m3u8
+CCTV14(少儿) ,http://221.12.3.18:8980/live/cctv14/index.m3u8
+CCTV15(音乐) ,http://221.12.3.18:8980/live/cctv15/index.m3u8
+
 🇨🇳卫视频道,#genre#
 安徽卫视 ,http://39.135.126.62/PLTV/88888888/224/3221226447/index.m3u8
 安徽卫视 ,http://39.135.126.62/PLTV/88888888/224/3221226879/index.m3u8
