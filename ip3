@@ -1,150 +1,56 @@
 辽宁联通,#genre#
-
-CCTV1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUU6FFmRK8Hl0ytyd5e5kWGEwoDIwMxbrlyyVy9x6ZDKnldIYKOjBOUjRyoym5n7Kg0yIYstFTUfqtC14fzxhy5Y
-CCTV2,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfGVSARKsxkWGZw7vFUuOj2QZHeRzosIxVbl7i2QHFATHA3k5wDWG1qHkZQAleNv%2FbI
-CCTV3,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMUNNEYLCPUtKY62j1Wp5u04wipypKUQ1TTuR2lXvBl5YpHqBJmlA19x22TD9bUOjk
-CCTV4,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfH0ZQXwaiVktPr6ILPKXqwOUC2ZXft7ZULN6h9qLQPFOTSlVTfophiKaMb8h1kPV74
-CCTV5,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSPTZ4CK5oLfjaEYe9dogNMSXw4ajlL%2FoUYC2RZQQDco6uQSifXBocz5ID6RePfIKQ4rFWiHjq%2FeZoDmrzW%2FKlw
-CCTV5PLUS,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRK254G1jtietGzDaHvFNRtjXOvFnbf%2BTao33JqYlfMYYn2z3agOn9gvNMT9KmBaR9o
-CCTV6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728804b1f9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdazJhFQmuq4XUiks9ZrIlJN%2BknLs8H%2BSxcDXy%2BTesEc8Q0KCN89MjYoj85Sol1kbKI4
-CCTV7,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000038BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHYKFve4MwNzRa0jPXeHjqnBjPmzSdKDNWNHhnZSaMGCXKmdx8d%2BnYdhVK5ge22ot4
-CCTV8,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728970aa82/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaymid9ta2tVUW0%2FdVrFqszC1EVEkAbpip1IYxn%2Ba2aA%2BVAihIiw9D8ejUsDbfU0K68
-CCTV9,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfHArfvJF2pWpm4RxcBNhZ7j9vEUeCQte%2BbQaOGNIUEEK%2B3RBE1BC9EUsM18gnb%2FyAA
-CCTV10,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949784BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5OuXozn3alq9%2BUx7ZLG1w9aOfkLjZvYj56D3xkOAtSOIoLsdw8c1%2BCwLDg1aS4esN4
-CCTV11,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4
-CCTV12,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUd3JM2PCgDefrKOVZLNt0QMAmpLefguRLiOPXiDRWhxHg8yim2giTBA8RILsb%2B8Y5pkFUyZBE%2FkNJAbwncEegkU
-CCTV13,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0SuXozn3alq9%2BUx7ZLG1w9awc14iEUxQ5VsTsr5pEBsmF56tXUfsukRUpygmTCKvAI
-CCTV14,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUXt3TPFwzzdHCkOT9AjSv5PYKFve4MwNzRa0jPXeHjqnp7khdLaCMP6L4QpTf84Oz6DvCG1%2BJ81QvStkxO%2FoGm8
-CCTV15,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Tdo%2FUL80msfbhDYvoWpNl31Dy7jHvMl%2FzVUrNxhL1ek1YEGVDZ7lCg0LtKJY4Ku%2B8
-CCTV16,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV17,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUdDh4EPdDnvGlSBkYaxFdaz%2FyAI9to%2FMBBt%2FivcdSfljJ1%2FqqamWUjAiBAxNssfyBlZUDSXAIMtStS86hRHFuJM
+CCTV-1 HD,http://wg.mxmy.net:8888/rtp/239.3.1.129:8008
 
 
-辽宁卫视,http://cd.sy012.com:4000/rtp/232.0.0.144:9108
-辽宁都市,http://cd.sy012.com:4000/rtp/232.0.0.42:8856
-辽宁体育,http://cd.sy012.com:4000/rtp/232.0.0.66:8820
-辽宁影视剧,http://cd.sy012.com:4000/rtp/232.0.0.97:8534
-辽宁经济,http://cd.sy012.com:4000/rtp/232.0.0.155:9320
-辽宁公共,http://cd.sy012.com:4000/rtp/232.0.0.156:9322
-辽宁北方,http://cd.sy012.com:4000/rtp/232.0.0.211:9240
-辽宁生活,http://cd.sy012.com:4000/rtp/232.0.0.212:9242
-辽宁教育青少,http://cd.sy012.com:4000/rtp/232.0.0.230:9356
-辽宁新动漫,http://cd.sy012.com:4000/rtp/232.0.0.153:9316
-辽宁移动电视,http://cd.sy012.com:4000/rtp/232.0.0.167:9338
-葫芦岛综合,http://cd.sy012.com:4000/rtp/232.0.0.238:9260
-葫芦岛公共,http://cd.sy012.com:4000/rtp/232.0.0.239:9262
-CCTV-1,http://cd.sy012.com:4000/rtp/232.0.0.27:8808
-CCTV-2,http://cd.sy012.com:4000/rtp/232.0.0.132:9144
-CCTV-3,http://cd.sy012.com:4000/rtp/232.0.0.198:9214
-CCTV-4亚洲,http://cd.sy012.com:4000/rtp/232.0.0.148:9142
-CCTV-4欧州,http://cd.sy012.com:4000/rtp/232.0.0.210:9238
-CCTV-4美州,http://cd.sy012.com:4000/rtp/232.0.0.145:9110
-CCTV-5,http://cd.sy012.com:4000/rtp/232.0.0.196:9210
-CCTV-5+,http://cd.sy012.com:4000/rtp/232.0.0.93:8750
-CCTV-6,http://cd.sy012.com:4000/rtp/232.0.0.194:9206
-CCTV-7,http://cd.sy012.com:4000/rtp/232.0.0.133:9146
-CCTV-8,http://cd.sy012.com:4000/rtp/232.0.0.28:8710
-CCTV-9,http://cd.sy012.com:4000/rtp/232.0.0.134:9148
-CCTV-10,http://cd.sy012.com:4000/rtp/232.0.0.135:9150
-CCTV-11,http://cd.sy012.com:4000/rtp/232.0.0.168:9340
-CCTV-12,http://cd.sy012.com:4000/rtp/232.0.0.136:9152
-CCTV-13,http://cd.sy012.com:4000/rtp/232.0.0.146:9112
-CCTV-14,http://cd.sy012.com:4000/rtp/232.0.0.137:9154
-CCTV-15,http://cd.sy012.com:4000/rtp/232.0.0.169:9342
-CCTV-16,http://cd.sy012.com:4000/rtp/232.0.0.36:8694
-CCTV-17,http://cd.sy012.com:4000/rtp/232.0.0.63:8686
-CCTV第一剧场,http://cd.sy012.com:4000/rtp/232.0.0.147:9132
-CCTV怀旧剧场,http://cd.sy012.com:4000/rtp/232.0.0.204:9226
-CCTV风云剧场,http://cd.sy012.com:4000/rtp/232.0.0.52:8610
-CCTV风云足球,http://cd.sy012.com:4000/rtp/232.0.0.90:9286
-CCTV央视精品,http://cd.sy012.com:4000/rtp/232.0.0.107:8698
-CCTV风云音乐,http://cd.sy012.com:4000/rtp/232.0.0.108:9288
-CCTV女性时尚,http://cd.sy012.com:4000/rtp/232.0.0.120:8858
-CCTV兵器科技,http://cd.sy012.com:4000/rtp/232.0.0.121:8882
-CCTV央视台球,http://cd.sy012.com:4000/rtp/232.0.0.122:9290
-CCTV世界地理,http://cd.sy012.com:4000/rtp/232.0.0.123:9292
-CCTV电视指南,http://cd.sy012.com:4000/rtp/232.0.0.124:9294
-CGTN.http://cd.sy012.com:4000/rtp/232.0.0.201:9220
-CGTN记录,http://cd.sy012.com:4000/rtp/232.0.0.202:9222
-CGTN法语,http://cd.sy012.com:4000/rtp/232.0.0.176:9170
-CGTN西语,http://cd.sy012.com:4000/rtp/232.0.0.191:9200
-CGTN俄语,http://cd.sy012.com:4000/rtp/232.0.0.43:8660
-CGTN阿语,http://cd.sy012.com:4000/rtp/232.0.0.8:8664
-CETV1,http://cd.sy012.com:4000/rtp/232.0.0.192:9202
-CETV2,http://cd.sy012.com:4000/rtp/232.0.0.98:8612
-CETV4,http://cd.sy012.com:4000/rtp/232.0.0.175:9354
-安多卫视,http://cd.sy012.com:4000/rtp/232.0.0.236:9368
-安徽卫视,http://cd.sy012.com:4000/rtp/232.0.0.138:9156
-兵团卫视,http://cd.sy012.com:4000/rtp/232.0.0.67:8640
-北京卫视,http://cd.sy012.com:4000/rtp/232.0.0.117:8860
-东方卫视,http://cd.sy012.com:4000/rtp/232.0.0.128:9100
-东南卫视,http://cd.sy012.com:4000/rtp/232.0.0.174:9352
-甘肃卫视,http://cd.sy012.com:4000/rtp/232.0.0.50:8642
-广东卫视,http://cd.sy012.com:4000/rtp/232.0.0.160:9120
-广西卫视,http://cd.sy012.com:4000/rtp/232.0.0.127:9300
-贵州卫视,http://cd.sy012.com:4000/rtp/232.0.0.171:9346
-海南卫视,http://cd.sy012.com:4000/rtp/232.0.0.195:9208
-河北卫视,http://cd.sy012.com:4000/rtp/232.0.0.64:8608
-河南卫视,http://cd.sy012.com:4000/rtp/232.0.0.48:8666
-黑龙江卫视,http://cd.sy012.com:4000/rtp/232.0.0.95:8866
-湖北卫视,http://cd.sy012.com:4000/rtp/232.0.0.130:9104
-湖南卫视,http://cd.sy012.com:4000/rtp/232.0.0.115:8864
-吉林卫视,http://cd.sy012.com:4000/rtp/232.0.0.170:9344
-江苏卫视,http://cd.sy012.com:4000/rtp/232.0.0.116:8862
-江西卫视,http://cd.sy012.com:4000/rtp/232.0.0.112:8606
-康巴卫视,http://cd.sy012.com:4000/rtp/232.0.0.237:9370
-内蒙古卫视,http://cd.sy012.com:4000/rtp/232.0.0.111:8718
-宁夏卫视,http://cd.sy012.com:4000/rtp/232.0.0.34:8644
-青海卫视,http://cd.sy012.com:4000/rtp/232.0.0.101:8588
-厦门卫视,http://cd.sy012.com:4000/rtp/232.0.0.101:8588
-山东卫视,http://cd.sy012.com:4000/rtp/232.0.0.161:9122
-山东教育卫视,http://cd.sy012.com:4000/rtp/232.0.0.200:9218
-山西卫视,http://cd.sy012.com:4000/rtp/232.0.0.86:8558
-陕西卫视,http://cd.sy012.com:4000/rtp/232.0.0.35:8590
-深圳卫视,
-http://cd.sy012.com:4000/rtp/232.0.0.110:8868
-四川卫视,http://cd.sy012.com:4000/rtp/232.0.0.208:9234
-天津卫视,http://cd.sy012.com:4000/rtp/232.0.0.131:9106
-西藏卫视,http://cd.sy012.com:4000/rtp/232.0.0.114:8844
-西藏卫视（藏语）,http://cd.sy012.com:4000/rtp/232.0.0.235:9366
-新疆卫视,http://cd.sy012.com:4000/rtp/232.0.0.18:8722
-延边卫视,http://cd.sy012.com:4000/rtp/232.0.0.184:9186
-云南卫视,http://cd.sy012.com:4000/rtp/232.0.0.24:8604
-浙江卫视,http://cd.sy012.com:4000/rtp/232.0.0.129:9102
-重庆卫视,http://cd.sy012.com:4000/rtp/232.0.0.209:9236
-欢笑剧场4K,http://cd.sy012.com:4000/rtp/232.0.0.150:9160
-都市剧场,http://cd.sy012.com:4000/rtp/232.0.0.143:9310
-生活时尚,http://cd.sy012.com:4000/rtp/232.0.0.125:9296
-游戏风云,http://cd.sy012.com:4000/rtp/232.0.0.139:9302
-动漫秀场,http://cd.sy012.com:4000/rtp/232.0.0.140:9304
-金色学堂,http://cd.sy012.com:4000/rtp/232.0.0.141:9306
-法制天地,http://cd.sy012.com:4000/rtp/232.0.0.142:9308
-上海纪实,http://cd.sy012.com:4000/rtp/232.0.0.162:9124
-北京纪实,http://cd.sy012.com:4000/rtp/232.0.0.185:9188
-金鹰纪实,http://cd.sy012.com:4000/rtp/232.0.0.186:9190
-乐游,http://cd.sy012.com:4000/rtp/232.0.0.126:9298
-金鹰卡通,http://cd.sy012.com:4000/rtp/232.0.0.181:9180
-卡酷动画,http://cd.sy012.com:4000/rtp/232.0.0.199:9216
-嘉佳卡通,http://cd.sy012.com:4000/rtp/232.0.0.180:9178
-优漫卡通,http://cd.sy012.com:4000/rtp/232.0.0.182:9182
-哈哈炫动,http://cd.sy012.com:4000/rtp/232.0.0.103:8636
-沈阳新闻综合,http://175.147.84.36:8888/rtp/232.0.0.206:1234
-睛彩竞技,http://175.147.84.36:8888/rtp/232.0.0.19:1234
-睛彩蓝球,http://175.147.84.36:8888/rtp/232.0.0.24:1234
-睛彩羽毛球,http://175.147.84.36:8888/rtp/232.0.0.62:1234
-睛彩广场舞,http://175.147.84.36:8888/rtp/232.0.0.64:1234
-炫动卡通,http://175.147.84.36:8888/rtp/232.0.0.103:1234
-卡通少儿,http://175.147.84.36:8888/rtp/232.0.0.54:1234
-爱上4K,http://175.147.84.36:8888/rtp/232.0.0.187:1234
-安多藏语综合,http://175.147.84.36:8888/rtp/232.0.0.105:1234
-康巴藏语综合,http://175.147.84.36:8888/rtp/232.0.0.109:1234
-家庭理财,http://175.147.84.36:8888/rtp/232.0.0.39:1234
-环球旅游,http://175.147.84.36:8888/rtp/232.0.0.65:1234
-四海钓鱼,http://175.147.84.36:8888/rtp/232.0.0.66:1234
-中华特产,http://175.147.84.36:8888/rtp/232.0.0.89:1234
-优优宝贝,http://175.147.84.36:8888/rtp/232.0.0.100:1234
-车谜,http://175.147.84.36:8888/rtp/232.0.0.112:1234
-生态环境,http://175.147.84.36:8888/rtp/232.0.0.113:1234
-百姓健康,http://175.147.84.36:8888/rtp/232.0.0.121:1234
-中国天气,http://175.147.84.36:8888/rtp/232.0.0.144:1234
-财富天下,http://175.147.84.36:8888/rtp/232.0.0.147:1234
+CCTV-2 HD,http://wg.mxmy.net:8888/rtp/239.3.1.60:8084
+
+
+CCTV-3 HD,http://wg.mxmy.net:8888/rtp/239.3.1.172:8001
+
+
+CCTV-4 HD,http://wg.mxmy.net:8888/rtp/239.3.1.105:8092
+
+
+CCTV-5 HD,http://wg.mxmy.net:8888/rtp/239.3.1.173:8001
+
+
+CCTV-5+ HD,http://wg.mxmy.net:8888/rtp/239.3.1.130:8004
+
+
+CCTV-6 HD,http://wg.mxmy.net:8888/rtp/239.3.1.174:8001
+
+
+CCTV-7 HD,http://wg.mxmy.net:8888/rtp/239.3.1.61:8104
+
+
+CCTV-8 HD,http://wg.mxmy.net:8888/rtp/239.3.1.175:8001
+
+
+CCTV-9 HD,http://wg.mxmy.net:8888/rtp/239.3.1.62:8112
+
+
+CCTV-10 HD,http://wg.mxmy.net:8888/rtp/239.3.1.63:8116
+
+
+CCTV-11 HD,http://wg.mxmy.net:8888/rtp/239.3.1.152:8120
+
+
+CCTV-12 HD,http://wg.mxmy.net:8888/rtp/239.3.1.64:8124
+
+
+CCTV-13 HD,http://wg.mxmy.net:8888/rtp/239.3.1.124:8128
+
+
+CCTV-14 HD,http://wg.mxmy.net:8888/rtp/239.3.1.65:8132
+
+
+CCTV-15 HD,http://wg.mxmy.net:8888/rtp/239.3.1.153:8136
+
+
+CCTV-16 奥林匹克[HDR],http://wg.mxmy.net:8888/rtp/239.3.1.183:8001
+
+
+CCTV-16 奥林匹克HD,http://wg.mxmy.net:8888/rtp/239.3.1.184:8001
+
+
+CCTV-17 HD,http://wg.mxmy.net:8888/rtp/239.3.1.151:8144
