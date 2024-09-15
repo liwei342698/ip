@@ -13,7 +13,6 @@ CCTV5 (体育) ,http://39.135.126.62/PLTV/88888888/224/3221226900/index.m3u8
 CCTV6 (电影) ,http://39.135.126.62/PLTV/88888888/224/3221226847/index.m3u8
 CCTV6 (电影) ,http://39.135.126.62/PLTV/88888888/224/3221226847/index.m3u8
 CCTV7 (军事) ,http://39.135.126.62/PLTV/88888888/224/3221226640/index.m3u8
-CCTV7 (军事) ,http://219.147.200.9:18080/newlive/live/hls/8/live.m3u8
 CCTV8 (电视剧) ,http://39.135.126.62/PLTV/88888888/224/3221226902/index.m3u8
 CCTV8 (电视剧) ,http://39.135.126.62/PLTV/88888888/224/3221226902/index.m3u8
 CCTV9 (记录) ,http://39.135.126.62/PLTV/88888888/224/3221226470/index.m3u8
@@ -38,23 +37,6 @@ CCTV17 (农业农村) ,http://39.135.126.62/PLTV/88888888/224/3221226594/index.m
 CCTV17 (农业农村) ,http://39.135.126.62/PLTV/88888888/224/3221226857/index.m3u8
 
 🇨🇳央视电信,#genre#
-CCTV1,http://219.147.200.9:18080/newlive/live/hls/1/live.m3u8
-CCTV2,http://219.147.200.9:18080/newlive/live/hls/2/live.m3u8
-CCTV3,http://219.147.200.9:18080/newlive/live/hls/3/live.m3u8
-CCTV4,http://219.147.200.9:18080/newlive/live/hls/4/live.m3u8
-CCTV5,http://219.147.200.9:18080/newlive/live/hls/5/live.m3u8
-CCTV5+,http://219.147.200.9:18080/newlive/live/hls/6/live.m3u8
-CCTV6,http://219.147.200.9:18080/newlive/live/hls/7/live.m3u8
-CCTV7,http://219.147.200.9:18080/newlive/live/hls/8/live.m3u8
-CCTV8,http://219.147.200.9:18080/newlive/live/hls/9/live.m3u8
-CCTV9,http://219.147.200.9:18080/newlive/live/hls/10/live.m3u8
-CCTV10,http://219.147.200.9:18080/newlive/live/hls/11/live.m3u8
-CCTV11,http://219.147.200.9:18080/newlive/live/hls/12/live.m3u8
-CCTV12,http://219.147.200.9:18080/newlive/live/hls/13/live.m3u8
-CCTV13,http://219.147.200.9:18080/newlive/live/hls/14/live.m3u8
-CCTV14,http://219.147.200.9:18080/newlive/live/hls/15/live.m3u8
-CCTV15,http://219.147.200.9:18080/newlive/live/hls/16/live.m3u8
-CCTV17,http://219.147.200.9:18080/newlive/live/hls/17/live.m3u8
 
 
 🇨🇳卫视频道,#genre#
