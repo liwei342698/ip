@@ -98,11 +98,8 @@ CCTV17 (农业农村) ,http://39.135.126.62/PLTV/88888888/224/3221226857/index.m
 辽宁移动 ,http://39.135.126.62/PLTV/88888888/224/3221226867/index.m3u8
 
 🇭🇰港澳综合,#genre#
-凤凰资讯,http://175.0.93.66:9000/udp/239.76.253.134:9000,0.63
-凤凰中文,http://175.0.93.66:9000/udp/239.76.253.135:9000,0.62
-2凤凰资讯,http://dns.yiandrive.com:16813/phenix/fhzx
-2凤凰中文,http://dns.yiandrive.com:16813/phenix/fhzw
-2凤凰香港,http://dns.yiandrive.com:16813/phenix/fhhk
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 TVBS新闻HD,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
@@ -117,7 +114,6 @@ TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8
 华语电视1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
-
 
 
 🎥电视影院,#genre#
