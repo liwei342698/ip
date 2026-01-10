@@ -8,33 +8,33 @@ CCTV4,http://39.135.126.62/PLTV/88888888/224/3221226845/index.m3u8
 CCTV4,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226692/index.m3u8
 CCTV5,http://39.135.126.62/PLTV/88888888/224/3221226900/index.m3u8
 CCTV6,http://39.135.126.62/PLTV/88888888/224/3221226847/index.m3u8
-CCTV7,http://video.migu.win/hls/cctv7.m3u8
+CCTV7,http://110.72.53.166:8181/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV8,http://39.135.126.62/PLTV/88888888/224/3221226902/index.m3u8
 CCTV9,http://39.135.126.62/PLTV/88888888/224/3221226849/index.m3u8
-CCTV10,http://video.migu.win/hls/cctv10.m3u8
-CCTV11,http://video.migu.win/hls/cctv11.m3u8
+CCTV10,http://110.72.53.166:8181/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://39.135.126.62/PLTV/88888888/224/3221226906/index.m3u8
 CCTV13,http://39.135.126.62/PLTV/88888888/224/3221226853/index.m3u8
-CCTV14,http://video.migu.win/hls/cctv14.m3u8
-CCTV15,http://video.migu.win/hls/cctv15.m3u8
-CCTV5+,http://video.migu.win/hls/cctv5p.m3u8
+CCTV14,http://110.72.53.166:8181/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://110.72.53.166:8181/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://110.72.53.166:8181/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV16,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227071/index.m3u8
 
-CCTV1,http://video.migu.win/hls/cctv1.m3u8
-CCTV2,http://video.migu.win/hls/cctv2.m3u8
-CCTV3,http://video.migu.win/hls/cctv3.m3u8
-CCTV4,http://video.migu.win/hls/cctv4.m3u8
-CCTV5,http://video.migu.win/hls/cctv5.m3u8
-CCTV6,http://video.migu.win/hls/cctv6.m3u8
+CCTV1,http://110.72.53.166:8181/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://110.72.53.166:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://110.72.53.166:8181/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://110.72.53.166:8181/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://110.72.53.166:8181/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://110.72.53.166:8181/tsfile/live/0006_2.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV8,http://video.migu.win/hls/cctv8.m3u8
-CCTV9,http://video.migu.win/hls/cctv9.m3u8
+CCTV8,http://110.72.53.166:8181/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://110.72.53.166:8181/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV12,http://video.migu.win/hls/cctv12.m3u8
-CCTV13,http://video.migu.win/hls/cctv13.m3u8
+CCTV11,http://110.72.53.166:8181/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://110.72.53.166:8181/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://110.72.53.166:8181/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV16,http://video.migu.win/hls/cctv16.m3u8
-CCTV17,http://video.migu.win/hls/cctv17.m3u8
+CCTV17,http://110.72.53.166:8181/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 🇨🇳卫视频道,#genre#
@@ -46,40 +46,24 @@ CCTV17,http://video.migu.win/hls/cctv17.m3u8
 广东卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226686/index.m3u8
 辽宁卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
 
-江苏卫视,http://video.migu.win/hls/jsws.m3u8
-广东卫视,http://video.migu.win/hls/gdws.m3u8
-湖北卫视,http://video.migu.win/hls/hubws.m3u8
-湖南卫视,http://video.migu.win/hls/hunws.m3u8
-浙江卫视,http://video.migu.win/hls/zjws.m3u8
-东方卫视,http://video.migu.win/hls/dfws.m3u8
-北京卫视,http://video.migu.win/hls/bjws.m3u8
-深圳卫视,http://video.migu.win/hls/szws.m3u8
-东南卫视,http://video.migu.win/hls/dnws.m3u8
-山东卫视,http://video.migu.win/hls/sdws.m3u8
-安徽卫视,http://video.migu.win/hls/ahws.m3u8
-天津卫视,http://video.migu.win/hls/tjws.m3u8
-辽宁卫视,http://video.migu.win/hls/lnws.m3u8
-江西卫视,http://video.migu.win/hls/jxws.m3u8
-河北卫视,http://video.migu.win/hls/hbws.m3u8
-重庆卫视,http://video.migu.win/hls/cqws.m3u8
-贵州卫视,http://video.migu.win/hls/gzws.m3u8
-吉林卫视,http://video.migu.win/hls/jlws.m3u8
-四川卫视,http://video.migu.win/hls/scws.m3u8
-海南卫视,http://video.migu.win/hls/hinws.m3u8
-河南卫视,http://video.migu.win/hls/hnws.m3u8
-广西卫视,http://video.migu.win/hls/gxws.m3u8
-山西卫视,http://video.migu.win/hls/sxiws.m3u8
-云南卫视,http://video.migu.win/hls/ynws.m3u8
-陕西卫视,http://video.migu.win/hls/sxws.m3u8
-甘肃卫视,http://video.migu.win/hls/gsws.m3u8
-宁夏卫视,http://video.migu.win/hls/nxws.m3u8
-青海卫视,http://video.migu.win/hls/qhws.m3u8
-新疆卫视,http://video.migu.win/hls/xjws.m3u8
-西藏卫视,http://video.migu.win/hls/xzws.m3u8
-黑龙江卫视,http://video.migu.win/hls/hljws.m3u8
-内蒙古卫视,http://video.migu.win/hls/nmgws.m3u8
-大湾区卫视,http://video.migu.win/hls/dwqws.m3u8
-
+广东卫视,http://110.72.53.166:8181/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://110.72.53.166:8181/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://110.72.53.166:8181/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://110.72.53.166:8181/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://110.72.53.166:8181/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://110.72.53.166:8181/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+上海卫视,http://110.72.53.166:8181/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://110.72.53.166:8181/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://110.72.53.166:8181/tsfile/live/0124_2.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://110.72.53.166:8181/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://110.72.53.166:8181/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://110.72.53.166:8181/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://110.72.53.166:8181/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://110.72.53.166:8181/tsfile/live/0131_2.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://110.72.53.166:8181/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://110.72.53.166:8181/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://110.72.53.166:8181/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+东南卫视,http://110.72.53.166:8181/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
