@@ -12,6 +12,7 @@ CCTV7,http://110.72.53.166:8181/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&au
 CCTV8,http://39.135.126.62/PLTV/88888888/224/3221226902/index.m3u8
 CCTV9,http://39.135.126.62/PLTV/88888888/224/3221226849/index.m3u8
 CCTV10,http://110.72.53.166:8181/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://110.72.53.166:8181/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV12,http://39.135.126.62/PLTV/88888888/224/3221226906/index.m3u8
 CCTV13,http://39.135.126.62/PLTV/88888888/224/3221226853/index.m3u8
 CCTV14,http://110.72.53.166:8181/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -29,7 +30,7 @@ CCTV6,http://110.72.53.166:8181/tsfile/live/0006_2.m3u8?key=txiptv&playlive=1&au
 CCTV8,http://110.72.53.166:8181/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV9,http://110.72.53.166:8181/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 
-CCTV11,http://110.72.53.166:8181/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+
 CCTV12,http://110.72.53.166:8181/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV13,http://110.72.53.166:8181/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 
